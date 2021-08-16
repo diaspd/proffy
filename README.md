@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="" title="" src="title.png" width="50%" />
+  <img alt="" title="" src="title.png" width="40%" />
 </h1>
 
 <br></br>
