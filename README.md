@@ -56,7 +56,7 @@ This project was developed with the following technologies:
 
 <br></br>
 
-Feito com ♥ by Pedro Dias (😎)<br></br>
+Feito com ♥ by Pedro Dias. 👋 Me siga nas redes sociais!(😎)<br></br>
 https://www.instagram.com/dias_pdr/ <br></br>
 https://www.facebook.com/PedroDias24/<br></br>
 https://twitter.com/diaspdr_1<br></br>
