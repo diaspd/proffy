@@ -52,7 +52,7 @@ This project was developed with the following technologies:
 
 
 ## 📄 Project
-💰A project designed to help connect students and teachers during a pandemic
+💰A project designed to help connect students and teachers during the pandemic.
 
 <br></br>
 
