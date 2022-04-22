@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="" title="" src="title.png" width="40%" />
+  <img alt="" title="" src="title.png" width="30%" />
 </h1>
 
 <br></br>
@@ -40,6 +40,7 @@ The app will be available for access on your browser at http://localhost:3000
 ## 💻 Technologies
 
 This project was developed with the following technologies:
+<b>
 - CSS
 - Express
 - HTML
@@ -49,10 +50,11 @@ This project was developed with the following technologies:
 - Nunjucks
 - SQLite
 - Sqlite-async
+ <b>
 
 
 ## 📄 Project
-💰A project designed to help connect students and teachers during the pandemic.
+💰 A project designed to help connect students and teachers during the pandemic.
 
 <br></br>
 
