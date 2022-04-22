@@ -50,7 +50,7 @@ This project was developed with the following technologies:
 - Nunjucks
 - SQLite
 - Sqlite-async
- <b>
+ </b>
 
 
 ## 📄 Project
@@ -64,6 +64,4 @@ https://www.facebook.com/PedroDias24/<br></br>
 https://twitter.com/diaspdr_1<br></br>
 https://www.twitch.tv/diasgm_pdr<br></br>
 
-Se puder dar uma estrelinha, eu agradeço 🤩
-<br></br>
 If you can give a little star, I appreciate it 🤩
