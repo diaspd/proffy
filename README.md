@@ -31,7 +31,7 @@ Follow the steps below:
 $ npm i
 
 # Start the project
-$ npm start
+$ npm run dev
 ```
 The app will be available for access on your browser at http://localhost:3000
 
