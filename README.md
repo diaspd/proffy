@@ -21,7 +21,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone git@github.com:diaspd/Proffy.git
+$ git clone https://github.com/diaspd/proffy.git
 $ cd 
 ```
 
