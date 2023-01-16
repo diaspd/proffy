@@ -54,6 +54,6 @@ This project was developed with the following technologies:
 
 <br></br>
 
-Feito com ♥ by Pedro Dias. 👋 Me siga nas redes sociais! <br></br>
+Made with ♥ by Pedro Dias. 👋 Follow me on social media! <br></br>
 
 If you can give a little star, I appreciate it 🤩
