@@ -26,7 +26,7 @@ $ cd
 Follow the steps below:
 ```bash
 # Install the dependencies
-$ npm i
+$ npm ci
 
 # Start the project
 $ npm run dev
