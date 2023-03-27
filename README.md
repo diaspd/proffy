@@ -46,6 +46,7 @@ This project was developed with the following technologies:
 - Nodemon
  </b>
 
+</br>
 
 ## 📄 Project
 💰 A project designed to help connect students and teachers during the pandemic.
